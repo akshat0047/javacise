@@ -1,14 +1,14 @@
 ## javacise
 ---
-A repository containing Java AWT and Swing implementations. It is made to practice codes and algorithm in java asked in University Exams and Interviews.
+A repository containing Java AWT, Java Swing and Java Applet implementations. It is made to practice codes and algorithm in java asked in University Exams and Interviews.
 
 > Only push .java that is main program files, user will compile them on their own.
 
 ## Folder Structure
 
-| Program_name_x  
-| Program_name_n  
-| Readme
+| AWT    ---\
+| SWING  --- |- Programs
+| APPLET ---/
 
 ## Contributing Guidelines
 ---
